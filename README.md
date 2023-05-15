@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning Competitive Coding and DSA<br>- 👯 I’m looking to collaborate on exciting projects<br>- 📫 How to reach me: <a href =>Linkedin</a><br>- 😄 Pronouns: He/Him<br>
+- 🌱 I’m currently learning Competitive Coding and DSA<br>- 👯 I’m looking to collaborate on exciting projects<br>- 📫 How to reach me: <a href =>Linkedin:https://www.linkedin.com/in/abhinav-u-5356a6264/</a><br>- 😄 Pronouns: He/Him<br>
 
 
 # 💻 Tech Stack:
